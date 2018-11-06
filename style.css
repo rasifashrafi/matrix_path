@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.start-btn{
+    margin-left: 0vw;
+    background-color: rgb(29, 0, 134);
+    color: rgb(99, 42, 165);
+    width: 100vw;
+    height: 8vh;
+    font-size: 25px;
+    transition: font-size 2s;
+}
+
+.start-btn:hover{
+    font-size: 50px;
+}
+.array {
+    margin-left: 0vw;
+    text-align: center;
+}
+.path {
+    margin-left: 0vw;
+    background-color: #0584f2;
+    text-align: center;
+    color: rgb(23, 9, 104);
+    font-size: 30px;
+}
+
+tr{
+    border: 1px solid black;
+    height: 5vh;
+}
+td{
+    border: 1px solid black;
+    width: 10vw;
+    transition: font-size .5s;
+}
+
+td:hover{
+    font-size: 40px;
+}
+
+.top{
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
